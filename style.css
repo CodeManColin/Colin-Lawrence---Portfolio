@@ -1,5 +1,6 @@
+/* ------ structure  ------ */
 
-
+/* ------ header/headings  ------ */
 header {
   background-color: #004E7A;
   border: 1px silver solid; 
@@ -48,6 +49,8 @@ h3 {
   margin: auto;
 }
 
+/* ------ main/ containers  ------ */
+
 main {
   background-color: #BED1DA;
   padding-bottom: 40px;
@@ -62,18 +65,23 @@ article {
   color: #004E7A;
 }
 
-img {
-  border: 2px solid silver;
-}
-
 section {
   margin-right: 100px; 
   margin-left: 100px;
 }
 
+/* ------ image  ------ */
+
+img {
+  border: 2px solid silver;
+}
+
+
 hr {
   color: #004E7A;
 }
+
+/* ------ pseudo-class links  ------ */
 
 a {
   font-size: 16px;
@@ -87,6 +95,9 @@ a:visited {color: #B80003;}
 a:hover {color: #376C3D;}
 a:active {color: #40C9A7;}
 
+
+/* ------ typography  ------ */
+
 .center-text {
   text-align: center;
 }
@@ -95,6 +106,8 @@ p {
   color: #0C1A31;
   font-size: 14px;
 }
+
+/* ------ footer  ------ */
 
 footer {
   background-color: #004E7A;
