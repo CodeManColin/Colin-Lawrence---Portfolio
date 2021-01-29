@@ -110,6 +110,10 @@ p {
   text-align: center;
 }
 
+li {
+  align-content: center;
+}
+
 /* ------ footer  ------ */
 
 footer {
