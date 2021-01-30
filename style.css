@@ -59,11 +59,14 @@ main {
 div {
   padding-top: 40px;
   box-align: center;
+  align-content: center;
 }
 
 article {
   color: #004E7A;
   align-content: center;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
 section {
@@ -111,8 +114,10 @@ p {
 }
 
 li {
-  margin-left: 300px;
-  margin-right: 300px;
+  align-content: center;
+  text-align: left;
+  padding: 2px;
+  margin-left: 120px;
 }
 
 /* ------ footer  ------ */
